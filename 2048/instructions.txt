@@ -1,0 +1,14 @@
+Instructions for the game 2048:
+
+When the game opens up, you can input your desired seed value and target value with the spin boxes shown in the interface. The default target value is 11, since the target value is given as a power of two and two to the power of eleven is 2048, aka the default goal. When you desire to start, you may press the play button. You now see the different colored numbers as photos on the board. The numbers are placed according to the seed value you gave as input. The timer shown below the buttons starts at the same time. The seed and target value, as the play-button are all disabled. You may move the board with either the arrow-buttons on the screen or the arrow buttons on your keyboard.
+
+Your points are calculated by the maximum value of the board. For example, if the largest tile on the board is 8, you get 8 points for every move until you connect two eights to a 16. Then you get 16 for every move.
+
+If you reach the tile that has the given target value, you will win, and receive a messagebox containing your points of the round, and how long it took. On the other hand, if the board is full and you can't get it to move in the right direction, it means you lose, and you will receive a messagebox asking you if you'd like to retry.
+
+The reset button is accessible when a game is going on (or at the end). By pressing it, you return basicly the same view as at the start, where you can choose again the desired target and seed values, and start playing again. There is also a pause-button on screen, and you can use it to pause the whole game, so that you can't move, and the timer is on pause. The text on the button changes according to the state of the pause.
+
+In the top bar you can see the three drop down menus. In the Menu-menu you can reset, pause or quit. In the settings-menu you can change the language between Finnish or English. In the Help-menu you can open these instructions.
+
+Extras:
+- Menu with language selection and instructions etc., photos as numbers, different colored numbers, point calculation (calculated by max value of board), Pause/Unpause button, timer.

@@ -1,0 +1,16 @@
+Pelin 2048 ohjeet:
+
+Kun peli alkaa, voit syöttää haluamasi siemenluvun ja tavoitearvon käyttöliittymässä näkyvillä valintabokseilla. Oletustavoitearvo on 11, koska 2 potenssiin 11 on 2048, eli oletus.
+
+Kun haluat aloittaa, voit painaa pelaa-painiketta. Näet nyt eriväriset numerot valokuvina pelilaudalla. Numerot sijoitetaan syöttämäsi siemenarvon mukaan. Painikkeiden alla näkyvä ajastin käynnistyy samaan aikaan. Siemen- ja tavoitearvo, kuten pelaa-painike, ovat kaikki poissa käytöstä. Voit siirtää taulua joko näytön nuolipainikkeilla tai näppäimistön nuolipainikkeilla.
+
+Pisteet lasketaan laudan suurimman arvon mukaan. Esimerkiksi, jos laudan suurin arvo on 8, saat 8 pistettä jokaisesta liikkeestä, kunnes yhdistät kaksi kahdeksaa saadaksesi 16. Sitten saat 16 jokaisesta liikkeestä.
+
+Jos saavutat laatan, jolla on annettu tavoitearvo, voitat ja saat viestin, joka sisältää kierroksen pisteesi ja kuinka kauan se kesti. Toisaalta, jos pöytä on täynnä, etkä saa sitä liikkumaan oikeaan suuntaan, se tarkoittaa, että häviät ja saat viestin, jossa kysytään, haluatko yrittää uudelleen.
+
+Uusi peli-nappi on käytettävissä pelin ollessa käynnissä (tai lopussa). Painamalla sitä palaat periaatteessa samaan näkymään kuin alussa, jossa voit valita uudelleen haluamasi kohde- ja siemenarvot ja aloittaa pelaamisen uudelleen. Näytöllä on myös keskeytä-nappi, jolla voit keskeyttää koko pelin, jolloin et pääse liikkumaan ja ajastin on tauolla. Painikkeen teksti muuttuu tauon tilan mukaan.
+
+Yläpalkissa näet kolme avattavaa valikkoa. Menu-valikossa voit nollata, keskeyttää tai sulkea pelin. Asetukset-valikossa voit vaihtaa kielen suomeksi tai englanniksi. Ohje-valikosta voit avata nämä ohjeet.
+
+Ekstrat:
+- Menu, ajastin, numerot kuvina, eriväriset numerot, keskeytys-ominaisuus, pisteenlasku
