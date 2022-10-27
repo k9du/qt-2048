@@ -6,8 +6,6 @@
  * Program editor:
  *
  * Name: Kian Moloney
- * Student ID: 50391895
- * Username: qckimo
  * E-mail: kian.moloney@tuni.fi
 */
 

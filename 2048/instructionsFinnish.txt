@@ -12,5 +12,3 @@ Uusi peli-nappi on käytettävissä pelin ollessa käynnissä (tai lopussa). Pai
 
 Yläpalkissa näet kolme avattavaa valikkoa. Menu-valikossa voit nollata, keskeyttää tai sulkea pelin. Asetukset-valikossa voit vaihtaa kielen suomeksi tai englanniksi. Ohje-valikosta voit avata nämä ohjeet.
 
-Ekstrat:
-- Menu, ajastin, numerot kuvina, eriväriset numerot, keskeytys-ominaisuus, pisteenlasku
